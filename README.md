@@ -63,11 +63,15 @@ What I’m focusing on in 2025
 	<img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
 	<img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
 	<img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" />
+	<img alt="C" src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black" />
+	<img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
 	<img alt="MATLAB" src="https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white" />
+	<img alt="Simulink" src="https://img.shields.io/badge/Simulink-0076A8?style=flat&logo=mathworks&logoColor=white" />
 	<img alt="Processing" src="https://img.shields.io/badge/Processing-006699?style=flat&logo=processingfoundation&logoColor=white" />
 	<img alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white" />
 	<img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
 	<img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+	<img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white" />
 	<img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
 </p>
 
@@ -84,6 +88,7 @@ What I’m focusing on in 2025
 	<img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
 	<img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
 	<img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" />
+	<img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
 </p>
 
 <p>
@@ -91,6 +96,8 @@ What I’m focusing on in 2025
 	<img alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white" />
 	<img alt="MATLAB" src="https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white" />
 	<img alt="Processing" src="https://img.shields.io/badge/Processing-006699?style=flat&logo=processingfoundation&logoColor=white" />
+	<img alt="C" src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black" />
+	<img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
 </p>
 
 ## Stats & Activity
@@ -113,13 +120,21 @@ What I’m focusing on in 2025
 
 ## Education
 
-- Degree — Institution (Year–Year) — brief focus/track
-- Degree — Institution (Year–Year) — brief focus/track
+- PhD in Fluid Mechanics — Aix-Marseille University, LMA & FLUIIDD (2025– )
+	- Topic: Optimizing electric pump energy consumption using AI and Electrical Impedance Tomography.
+	- Advisors: Cédric Bellis, Mathieu Darnajou, Guillaume Ricciardi.
+- M2 in Mobile Autonomous Systems — Université Paris-Saclay (2023–2024), France
+- Engineering + M2 in Automation — École Nationale Polytechnique (2020–2023), Algiers
+- CPGE Science & Technology — École Nationale Polytechnique (2018–2020), Algiers
 
 ## Work Experience
 
-- Role — Company (Year–Year): one‑line impact statement or key responsibilities.
-- Role — Company (Year–Year): one‑line impact statement or key responsibilities.
+- PhD Researcher (region PACA funded) — Aix-Marseille University, LMA & FLUIIDD (2025– )
+	- AI + EIT for optimizing electric pump power consumption.
+- Research Intern (AI) — Adservio Group, Puteaux, France (2024)
+	- Built an autonomous-driving pipeline leveraging large language models in CARLA simulator. Supervisor: Hedi Tabia.
+- Research Intern (Control Theory) — INRIA Paris‑Saclay & Process Control Lab, Algiers (2023)
+	- Final‑year project: Estimation of arterial blood flow using modulating functions. Supervisors: Pr. Taous‑Meriem Laleg, Pr. Zehor Belkhatir, Dr. Messaoud Chakir.
 
 ## Personal Projects
 
@@ -136,8 +151,7 @@ What I’m focusing on in 2025
 
 ## Articles
 
-- Title — Publisher (Year): short summary. <a href="#">link</a>
-- Title — Publisher (Year): short summary. <a href="#">link</a>
+- Coming soon — Publications and technical write‑ups in progress.
 
 ## Get In Touch
 
