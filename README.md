@@ -1,6 +1,3 @@
-## Hi there 👋
-
-
 <p align="center">
 	<img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Hi%2C%20I'm%20Skarwech&fontAlign=50&fontAlignY=40&color=gradient&fontColor=ffffff&desc=AI%20%E2%80%A2%20ML%20%E2%80%A2%20Robotics%20%E2%80%A2%20Data&descAlign=50&descAlignY=72" alt="Profile banner" />
 </p>
